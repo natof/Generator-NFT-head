@@ -1,0 +1,33 @@
+{
+    "name": "NFT Character #46",
+    "symbol": "",
+    "description": "NFT Collectibles using Blender Python",
+    "image": "https://example.com/46.png",
+    "external_url": "https://example.com/46",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Hair23"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Skin5"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Eye15"
+        },
+        {
+            "trait_type": "color1",
+            "value": [
+                219,
+                103,
+                255
+            ]
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        }
+    ]
+}
